@@ -1,0 +1,79 @@
+[
+  {
+    "id": "naukri",
+    "name": "Naukri",
+    "type": "automation",
+    "applyMode": "approval_required",
+    "notes": "Best-effort automation. Rate limits and manual fallback required."
+  },
+  {
+    "id": "linkedin",
+    "name": "LinkedIn",
+    "type": "manual-only",
+    "applyMode": "approval_required",
+    "notes": "Automation disabled by default until policy verification."
+  },
+  {
+    "id": "indeed",
+    "name": "Indeed",
+    "type": "manual-only",
+    "applyMode": "approval_required",
+    "notes": "Automation disabled by default until policy verification."
+  },
+  {
+    "id": "glassdoor",
+    "name": "Glassdoor",
+    "type": "manual-only",
+    "applyMode": "approval_required",
+    "notes": "Automation disabled by default until policy verification."
+  },
+  {
+    "id": "monster",
+    "name": "Monster",
+    "type": "manual-only",
+    "applyMode": "approval_required",
+    "notes": "Automation disabled by default until policy verification."
+  },
+  {
+    "id": "foundit",
+    "name": "Foundit (Monster India)",
+    "type": "manual-only",
+    "applyMode": "approval_required",
+    "notes": "Automation disabled by default until policy verification."
+  },
+  {
+    "id": "wellfound",
+    "name": "Wellfound (AngelList)",
+    "type": "manual-only",
+    "applyMode": "approval_required",
+    "notes": "Automation disabled by default until policy verification."
+  },
+  {
+    "id": "greenhouse",
+    "name": "Greenhouse",
+    "type": "manual-only",
+    "applyMode": "approval_required",
+    "notes": "Automation disabled by default until policy verification."
+  },
+  {
+    "id": "lever",
+    "name": "Lever",
+    "type": "manual-only",
+    "applyMode": "approval_required",
+    "notes": "Automation disabled by default until policy verification."
+  },
+  {
+    "id": "workday",
+    "name": "Workday",
+    "type": "manual-only",
+    "applyMode": "approval_required",
+    "notes": "Automation disabled by default until policy verification."
+  },
+  {
+    "id": "ziprecruiter",
+    "name": "ZipRecruiter",
+    "type": "manual-only",
+    "applyMode": "approval_required",
+    "notes": "Automation disabled by default until policy verification."
+  }
+]

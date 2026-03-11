@@ -1,0 +1,12 @@
+{
+  "name": "@job-portal/worker",
+  "version": "0.1.0",
+  "private": true,
+  "type": "commonjs",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "node src/index.js",
+    "build": "echo \"Add TypeScript build later\""
+  }
+}
+
